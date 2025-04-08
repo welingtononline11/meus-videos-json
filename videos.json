@@ -1,8 +1,22 @@
 [
   {
-    "id": 1,
-    "title": "Meu Primeiro Vídeo",
-    "videoUrl": "https://exemplo.com/video1.mp4",
-    "productUrl": "https://mercadolivre.com/produto1"
+    "id": "1",
+    "title": "Headphone Bluetooth",
+    "videoUrl": "https://static.meli.com/video/h/62c82f1f923a3f082b72612d/6728a4f9b2d41248eff4e7af_6728a4f9b2d41248eff4e7b8.mp4/index-v1-a1.m3u8",
+    "mercadoLivreUrl": "https://www.mercadolivre.com.br/mascara-de-solda-automatica-regulagem-9-a-13-carbografite-cor-preto-liso/p/MLB21744228/",
+    "amazonUrl": "",
+    "shopeeUrl": "",
+    "webUrl": "https://www.mercadolivre.com.br/mascara-de-solda-automatica-regulagem-9-a-13-carbografite-cor-preto-liso/p/MLB21744228/",
+    "mutedByDefault": false
+  },
+  {
+    "id": "2",
+    "title": "Smartwatch Promoção",
+    "videoUrl": "https://static.meli.com/video/h/62c82f1f923a3f082b72612d/6728a4f9b2d41248eff4e7af_6728a4f9b2d41248eff4e7b8.mp4/index-v1-a1.m3u8",
+    "mercadoLivreUrl": "",
+    "amazonUrl": "https://www.amazon.com.br/Forno-El%C3%A9trico-Brit%C3%A2nia-BFE55P-resist%C3%AAncia/dp/B0CBL5C5D4/?_encoding=UTF8&pd_rd_w=OgCtG&content-id=amzn1.sym.09916995-565b-4f2a-a31f-48091c48a79c%3Aamzn1.symc.5111b5a7-85f4-4b0c-88b2-c0a74bb618a6&pf_rd_p=09916995-565b-4f2a-a31f-48091c48a79c&pf_rd_r=CY33DDQY6N2KXJ5HK5VS&pd_rd_wg=lLyJD&pd_rd_r=03910ab4-bf44-43d1-b6d7-94b3763cf395&ref_=pd_hp_d_btf_ci_mcx_mr_hp_atf_m",
+    "shopeeUrl": "",
+    "webUrl": "https://www.amazon.com.br/Forno-El%C3%A9trico-Brit%C3%A2nia-BFE55P-resist%C3%AAncia/dp/B0CBL5C5D4/?_encoding=UTF8&pd_rd_w=OgCtG&content-id=amzn1.sym.09916995-565b-4f2a-a31f-48091c48a79c%3Aamzn1.symc.5111b5a7-85f4-4b0c-88b2-c0a74bb618a6&pf_rd_p=09916995-565b-4f2a-a31f-48091c48a79c&pf_rd_r=CY33DDQY6N2KXJ5HK5VS&pd_rd_wg=lLyJD&pd_rd_r=03910ab4-bf44-43d1-b6d7-94b3763cf395&ref_=pd_hp_d_btf_ci_mcx_mr_hp_atf_m",
+    "mutedByDefault": true
   }
 ]
